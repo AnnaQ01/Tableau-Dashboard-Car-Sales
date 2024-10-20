@@ -15,4 +15,10 @@ This dashboard provides an overview of the car sales performance, focusing on ke
 - Engine Type: Double Overhead Camshaft engines lead in sales, contributing 194.33M YTD, while Overhead Camshaft engines account for 176.85M.
 - Dealer Region: Austin leads in regional sales, with 65.04M YTD, followed by Janesville with 58.73M and Scottsdale with 53.41M. Other notable regions include Aurora, Greenville, and Pasco, each contributing between 48M and 49M in sales.
 - Company: Chevrolet leads in YTD sales with 27.11M and holds a 7.30% share of the market. Ford, Dodge, and Oldsmobile also perform well, with sales between 19.63M and 25.43M, each holding between 5% and 7% of the market. Jaguar has the lowest YTD sales, with only 2.50M and a market share of 0.67%, selling just 102 cars so far this year. Hyundai follows closely, with 2.57M in sales, accounting for 0.69% of the total market, and 134 cars sold year-to-date.
-- 
+
+**Recommendations:**
+- Ensure inventory is stocked up and marketing campaigns are optimized to capture demand during weeken and holiday season demand in September, November and December.
+- To capitalize on strong sales, prioritize marketing and inventory for SUVs, Pale White cars, and Double Overhead Camshaft engines to meet customer demand.
+- Jaguar and Hyundai should focus on targeted marketing campaigns that emphasize their unique value propositions, such as luxury features or affordability.
+
+Data Source: https://www.kaggle.com/datasets/missionjee/car-sales-report
